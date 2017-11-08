@@ -4,7 +4,8 @@
 	<title>kalkulator</title>
 </head>
 <body>
-<h1> aplikasi kalkulator</h1>
-<h2>hemm</h2>
+	<h1>aplikasi kalkulator</h1>
+	<h2> kalkul</h2>
+
 </body>
 </html>
