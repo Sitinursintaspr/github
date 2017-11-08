@@ -5,7 +5,7 @@
 </head>
 <body>
 	<h1>aplikasi kalkulator</h1>
-	<h2> kalkul</h2>
+	<h2></h2>
 
 </body>
 </html>
