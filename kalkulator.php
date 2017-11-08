@@ -4,7 +4,7 @@
 	<title>kalkulator</title>
 </head>
 <body>
-	<h1>aplikasi kalkulator</h1>
+	<h1>aplikasi</h1>
 
 </body>
 </html>
